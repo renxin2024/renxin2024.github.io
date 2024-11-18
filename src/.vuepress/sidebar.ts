@@ -18,7 +18,7 @@ export default sidebar({
         },
         "intro",
         {
-            text: "幻灯片",
+            text: "幻灯片的用法",
             icon: "person-chalkboard",
             link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
         },
