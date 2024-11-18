@@ -7,7 +7,7 @@ export default defineUserConfig({
 
     lang: "zh-CN",
     title: "Not Only Java",
-    description: "我的博客",
+    description: "任鑫的博客",
 
     theme,
 
