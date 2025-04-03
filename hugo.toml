@@ -1,4 +1,0 @@
-baseURL = 'https://renxin2024.github.io/'
-languageCode = 'en-us'
-title = 'Ren xin Blog'
-theme = 'hugo-book'
